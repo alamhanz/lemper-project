@@ -7,6 +7,7 @@ data with no more than 50 MB in one file.
 
 * Laptop Price
 * Salary Predict
+* Temperature time series
 
 
 ## Reference
