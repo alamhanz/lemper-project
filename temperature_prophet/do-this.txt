@@ -1,0 +1,4 @@
+virtualenv propt
+[activate the env]
+pip install -r req.txt
+ipython kernel install --name "propt-env2" --user
